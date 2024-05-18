@@ -8,4 +8,8 @@ public class Card {
     private int cost;
 
 
+    //default constructor
+    public Card(){
+
+    }
 }
