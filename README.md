@@ -9,6 +9,7 @@
 
 
 Backend: Java ☕
+
 Frontend: Java FX or Swing (Undecided)
 
 Software Engineers: Roy Molina @RoyMolina03 and Luis Lopez @
