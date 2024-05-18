@@ -16,6 +16,7 @@ Software Engineers: Roy Molina @RoyMolina03 and Luis Lopez @
 Project Start Date: 05-17-24
 Project End Date: ???
 
-### Current Version: 0.0.1
+### Current Version: 0.0.2 
+#### See History for more details on smaller updates
 
 0.0.1 (05-17-24) - Initial Classes and readme
